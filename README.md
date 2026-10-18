@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3AED&height=220&section=header&text=Janushikka%20Neduncheliyan&fontSize=40&fontColor=F5B301&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=FFFFFF" alt="header" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3AED&height=220&section=header&text=Janushikka%20Neduncheliyan&fontSize=40&fontColor=F5B301&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=FFFFFF" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F5B301&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Janushikka+%F0%9F%91%8B;FCIT+Student+%F0%9F%8E%93;Learning+to+become+a+Full-Stack+Developer+%F0%9F%9A%80;Building+projects%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Typing SVG" /> -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F5B301&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Janushikka+%F0%9F%91%8B;FCIT+Student+%F0%9F%8E%93;Learning+to+become+a+Full-Stack+Developer+%F0%9F%9A%80;Building+projects%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=JanushikkaNeduncheliyan&label=Profile%20Views&color=7C3AED&style=for-the-badge)
+[![Profile Views](https://hits.sh/github.com/JanushikkaNeduncheliyan.svg?style=for-the-badge&label=Profile%20Views&color=7C3AED&labelColor=4C1D95)](https://hits.sh/github.com/JanushikkaNeduncheliyan/)
 ![Followers](https://img.shields.io/github/followers/JanushikkaNeduncheliyan?label=Followers&style=for-the-badge&color=F5B301&labelColor=4C1D95&logo=github)
 
 </div>
