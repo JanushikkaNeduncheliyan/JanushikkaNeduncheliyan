@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Janushikka%20Neduncheliyan&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=BAE6FD" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:60A5FA&height=220&section=header&text=Janushikka%20Neduncheliyan&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=FFFFFF" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Janushikka+%F0%9F%91%8B;FCIT+Student+%F0%9F%8E%93;Learning+to+become+a+Full-Stack+Developer+%F0%9F%9A%80;Building+projects%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Janushikka+%F0%9F%91%8B;FCIT+Student+%F0%9F%8E%93;Learning+to+become+a+Full-Stack+Developer+%F0%9F%9A%80;Building+projects%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Profile Views](https://hits.sh/github.com/JanushikkaNeduncheliyan.svg?style=for-the-badge&label=Profile%20Views&color=2563EB&labelColor=0F172A)](https://hits.sh/github.com/JanushikkaNeduncheliyan/)
-![Followers](https://img.shields.io/github/followers/JanushikkaNeduncheliyan?label=Followers&style=for-the-badge&color=0EA5E9&labelColor=0F172A&logo=github)
+[![Profile Views](https://hits.sh/github.com/JanushikkaNeduncheliyan.svg?style=for-the-badge&label=Profile%20Views&color=3B82F6&labelColor=1D4ED8)](https://hits.sh/github.com/JanushikkaNeduncheliyan/)
+![Followers](https://img.shields.io/github/followers/JanushikkaNeduncheliyan?label=Followers&style=for-the-badge&color=3B82F6&labelColor=1D4ED8&logo=github)
 
 </div>
 
@@ -61,7 +61,7 @@ Hi, I'm **Janushikka** 👋 — a **Foundation Certificate in Information Techno
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/SQL-1E3A8A?style=for-the-badge&logo=databricks&logoColor=BAE6FD" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
 </p>
 
 ### 🔧 Tools & Technologies
@@ -85,8 +85,8 @@ Hi, I'm **Janushikka** 👋 — a **Foundation Certificate in Information Techno
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JanushikkaNeduncheliyan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=2563EB&text_color=FFFFFF" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanushikkaNeduncheliyan&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JanushikkaNeduncheliyan&show_icons=true&hide_border=false&border_color=BFDBFE&bg_color=FFFFFF&title_color=1D4ED8&icon_color=2563EB&text_color=1E3A8A" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanushikkaNeduncheliyan&layout=compact&hide_border=false&border_color=BFDBFE&bg_color=FFFFFF&title_color=1D4ED8&text_color=1E3A8A" alt="Top Languages" />
 
 </div>
 
@@ -117,6 +117,6 @@ Hi, I'm **Janushikka** 👋 — a **Foundation Certificate in Information Techno
 
 ### 💙 *"Code is like humour. When you have to explain it, it's bad."* ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:1D4ED8&height=120&section=footer" alt="footer" />
 
 </div>
